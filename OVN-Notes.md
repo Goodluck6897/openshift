@@ -1,6 +1,6 @@
 
 # OVN — Open Virtual Network
-
+https://github.com/AndreiBarbu95/aro-course/blob/main/Section%2011%3A%20Networking%20in%20ARO/1.%20Understand%20ARO's%20network%20plugin%20Open%20Virtual%20Network%20(OVN)%20Kubernetes/understand-aros-network-plugin-open-virtual-network-ovn-kubernetes-commands.txt
 <img width="1339" height="837" alt="image" src="https://github.com/user-attachments/assets/8d590614-d05b-44dd-829b-b81daf35cd6d" />
 
 <img width="1477" height="817" alt="image" src="https://github.com/user-attachments/assets/ffadf77b-cdf4-40b2-a7fa-30889c7d4c46" />
