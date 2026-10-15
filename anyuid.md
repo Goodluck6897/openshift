@@ -1,5 +1,5 @@
 
-Here is a comprehensive, production-ready reference cheat sheet for managing OpenShift Security Context Constraints (SCC) and the anyuid workaround, formatted for your GitHub notes or documentation.
+
 
 📝 OpenShift SCC & anyuid Quick Reference
 
