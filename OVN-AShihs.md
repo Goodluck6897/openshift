@@ -44,5 +44,7 @@ Follow the packet, and the architecture starts making sense.
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c557ff22-cc1b-4853-8a99-f2de9c11fa1a" />
 
-![Uploading image.png…]()
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3e07e668-2864-424b-8950-a22ea16ba512" />
+
 
