@@ -42,4 +42,7 @@ Follow the packet, and the architecture starts making sense.
 
 💬 Have you ever troubleshot a cross-node Pod connectivity issue in OpenShift? What was the root cause?
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c557ff22-cc1b-4853-8a99-f2de9c11fa1a" />
+
 ![Uploading image.png…]()
+
