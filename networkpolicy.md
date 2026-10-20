@@ -52,4 +52,7 @@ Use NetworkPolicy to allow only the communication your application actually need
 
 💬 Do you use default-deny NetworkPolicies in your environment?
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a9ea6202-186b-4955-9a33-52997da9019d" />
+
 ![Uploading image.png…]()
+
