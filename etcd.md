@@ -74,3 +74,5 @@ Understanding this concept is important not only for interviews but also for tro
 💬 Question for you:
 
 If an etcd cluster has 5 members, how many members can fail while still maintaining quorum? 🤔
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d657aafb-5057-41d7-a845-499163c08af5" />
