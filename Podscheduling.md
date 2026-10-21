@@ -1,3 +1,5 @@
+https://www.linkedin.com/feed/update/urn:li:activity:7503347710733991936/
+
 🚀 Kubernetes/OpenShift Pod Scheduling: How does the Scheduler actually decide WHERE your Pod runs?
 We often say:
 “The scheduler schedules the Pod on a node.”
