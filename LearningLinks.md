@@ -2,3 +2,5 @@ https://www.linkedin.com/feed/update/urn:li:activity:7515998406876651521?updateE
 
 OVn-https://www.linkedin.com/feed/update/urn:li:activity:7457982557683503104/
 Deployment upgrade:https://www.linkedin.com/feed/update/urn:li:activity:7506316039194849280/
+
+Openshift SECURITY - https://www.redhat.com/en/resources/openshift-security-guide-ebook
