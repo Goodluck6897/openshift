@@ -63,7 +63,7 @@ By default, OpenShift enforces **non-root, least privilege** principles. SCCs pr
 | Blocked Action | Risk If Allowed |
 |---|---|
 | Running as root user | Full host compromise |
-| Mounting host paths | Data exfiltration |
+| [Mounting host paths](https://github.com/Goodluck6897/openshift/blob/main/OpenShift-SCC-Mounting-HostPaths.md) | Data exfiltration |
 | Running privileged containers | Kernel-level access |
 | Escaping container isolation | Lateral movement |
 | Using host network | Network sniffing |
