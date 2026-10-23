@@ -1,3 +1,7 @@
+https://www.linkedin.com/posts/namdev-gadve-17b8a361_openshift-kubernetes-haproxy-share-7518701498726273024-0Kuh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAPQH9sBo9DgvaICdmRL5VPIaOAp1r6-4PE
+
+
+
 How does traffic reach your app in OpenShift? 🚀
 Every request to your application passes through the HAProxy-based Ingress Router. Here is the journey:
 1️⃣ Client requests https://lnkd.in/gkuRMZ2C
