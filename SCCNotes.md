@@ -66,7 +66,7 @@ By default, OpenShift enforces **non-root, least privilege** principles. SCCs pr
 | [Mounting host paths](https://github.com/Goodluck6897/openshift/blob/main/OpenShift-SCC-Mounting-HostPaths.md) | Data exfiltration |
 | [Running privileged containers](https://github.com/Goodluck6897/openshift/blob/main/Running%20privileged%20containers.md) | Kernel-level access |
 | [Escaping container isolation](https://github.com/Goodluck6897/openshift/blob/main/Escaping%20Container%20Isolation%20in%20OpenShift%20SCC.md) | Lateral movement |
-| Using host network | Network sniffing |
+| [Using host network](https://github.com/Goodluck6897/openshift/blob/main/Using-host-network.md) | Network sniffing |
 | Accessing host PID/IPC | Process manipulation |
 
 > 💡 **Key Insight:** In vanilla Kubernetes, pods run as root by default. In OpenShift, they run as **non-root by default** — this is the #1 security difference.
